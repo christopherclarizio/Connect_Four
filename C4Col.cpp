@@ -1,5 +1,5 @@
 /*
-Christopher Clarizio CSE 20312 1-25-2017 C4Col.cpp
+Christopher Clarizio C4Col.cpp
 implementation for the calss C4Col which abstracts a column in a connect four board
 */
 
