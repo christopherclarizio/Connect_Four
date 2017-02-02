@@ -1,5 +1,5 @@
 /*
-Christopher Clarizio CSE 20312 1-31-2017 C4Board.h
+Christopher Clarizio C4Board.h
 header for the C4Board class which abstracts a board for connect four
 */
 
