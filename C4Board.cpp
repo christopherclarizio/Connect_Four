@@ -1,5 +1,5 @@
 /*
-Christopher Clarizio CSE 20312 1-31-2017 C4Board.cpp
+Christopher Clarizio C4Board.cpp
 implementation for the class C4Board which abstracts a board for connect four
 */
 
