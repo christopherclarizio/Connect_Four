@@ -1,5 +1,5 @@
 /*
-Christopher Clarizio CSE 20312 1-25-2017 C4Col.h
+Christopher Clarizio C4Col.h
 header for the C4Col class which abstracts a column in a connect four board
 */
 
